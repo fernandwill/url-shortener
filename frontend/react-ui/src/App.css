@@ -1,0 +1,22 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 10px;
+}
+
+input {
+  padding: 8px;
+  width: 300px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 16px;
+  margin-left: 10px;
+  font-size: 16px;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 16px;
+}
