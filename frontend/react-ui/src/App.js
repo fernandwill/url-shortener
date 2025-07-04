@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>URL Shortener</h1>
+      <h1>🔗 URL Shortener</h1>
       <input
         type="text"
         placeholder="Enter URL..."
